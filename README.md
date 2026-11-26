@@ -1,42 +1,42 @@
 e-plantShopping
 
-Paradise Nursery
+Paradise Nursery – Online Plant Shopping Application
 
-Where Green Meets Serenity
+Paradise Nursery is a React-based online plant shopping application that allows customers to explore different categories of plants and add their favourite plants to a shopping cart.
 
-Paradise Nursery is an online plant shopping application built with React and Redux.
-
-Project Description
-
-This application allows customers to browse different categories of houseplants, add plants to their shopping cart, adjust quantities, remove items, and view their total cart amount.
+The project demonstrates the use of React components, state management, Redux Toolkit, and interactive user interfaces.
 
 Features
 
-- Browse houseplants across different categories.
-- View plant names, images, descriptions, and prices.
+- Welcome page with a Get Started button.
+- Home and Plants navigation.
+- Five categories of plants.
+- Six plants in each category.
 - Add plants to the shopping cart.
-- Increase and decrease plant quantities.
-- Remove plants from the shopping cart.
-- View individual item subtotals and total cart amount.
-- Continue shopping from the cart page.
-- Checkout functionality placeholder.
+- Dynamic cart item counter.
+- Increase or decrease plant quantities.
+- Remove plants from the cart.
+- Automatic calculation of item totals and overall cart amount.
+- Continue Shopping functionality.
+- Checkout placeholder.
 
 Technologies Used
 
-- React
+- React.js
 - JavaScript
+- HTML
+- CSS
 - Redux Toolkit
 - React Redux
-- CSS
 - Vite
 
-Installation
+Installation and Setup
 
 1. Clone the repository:
    
    "git clone https://github.com/ayogubkc-hue/e-plantShopping.git"
 
-2. Enter the project folder:
+2. Enter the project directory:
    
    "cd e-plantShopping"
 
@@ -50,4 +50,8 @@ Installation
 
 Project Repository
 
-https://github.com/ayogubkc-hue/e-plantShopping
+"https://github.com/ayogubkc-hue/e-plantShopping" (https://github.com/ayogubkc-hue/e-plantShopping)
+
+Project Purpose
+
+This project was developed as part of a React and Redux learning assignment to demonstrate practical skills in building an interactive online shopping application.
